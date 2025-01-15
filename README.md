@@ -31,21 +31,21 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- There is class imbalance issue in the dataset
+- After Class rebalance and augmentation model performance has improved
+- Final model (model 3) has given highest training (92.9%) and validation accuracy (82.2%)  .
+- Model overfitting issue is solved.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tensorflow - version 2.8.0
-- Numpy - version 1.19.5
-- Pandas - version 1.1.5
-- Matplotlib - version 3.2.2
-- Scikit-learn - version 1.0.2
-- Augmentor - version 0.2.10
+- Tensorflow - version 2.18.0
+- Numpy - version 1.26.4
+- Pandas - version 2.2.2
+- Matplotlib - version 3.9.2
+- Scikit-learn - version 1.5.1
+- Augmentor - version 0.2.12
 - PIL - version 7.1.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
